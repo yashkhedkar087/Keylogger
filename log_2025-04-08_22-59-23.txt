@@ -1,0 +1,44 @@
+2025-04-08 22:59:23,308: Starting new HTTPS connection (1): api.ipify.org:443
+2025-04-08 22:59:23,937: https://api.ipify.org:443 "GET / HTTP/1.1" 200 12
+
+[System Info]
+Hostname: DESKTOP-FUUGQIO
+Local IP: 192.192.1.1
+Public IP: 192.192.1.1
+OS: Windows-11-11.11.1111-SP0
+
+2025-04-08 22:59:51,135: Special Key: Key.caps_lock
+2025-04-08 22:59:51,139: Key: a
+2025-04-08 22:59:51,323: Key: j
+2025-04-08 22:59:51,443: Key: n
+2025-04-08 22:59:51,871: Key: c
+2025-04-08 22:59:52,571: Special Key: Key.shift
+2025-04-08 23:00:03,365: Special Key: Key.enter
+2025-04-08 23:00:03,465: Special Key: Key.enter
+2025-04-08 23:00:03,636: Special Key: Key.enter
+2025-04-08 23:00:04,337: Key: d
+2025-04-08 23:00:04,613: Key: n
+2025-04-08 23:00:04,765: Key: v
+2025-04-08 23:00:04,961: Key: n
+2025-04-08 23:00:05,773: Special Key: Key.backspace
+2025-04-08 23:00:05,969: Special Key: Key.backspace
+2025-04-08 23:00:06,136: Special Key: Key.backspace
+2025-04-08 23:00:06,305: Special Key: Key.backspace
+2025-04-08 23:00:07,449: Key: h
+2025-04-08 23:00:07,665: Key: i
+2025-04-08 23:00:08,245: Special Key: Key.space
+2025-04-08 23:00:08,845: Key: m
+2025-04-08 23:00:09,301: Key: y
+2025-04-08 23:00:09,573: Special Key: Key.space
+2025-04-08 23:00:09,797: Key: n
+2025-04-08 23:00:09,953: Key: a
+2025-04-08 23:00:10,125: Key: m
+2025-04-08 23:00:10,361: Key: e
+2025-04-08 23:00:10,493: Special Key: Key.space
+2025-04-08 23:00:10,809: Key: i
+2025-04-08 23:00:10,997: Key: s
+2025-04-08 23:00:11,169: Special Key: Key.space
+2025-04-08 23:00:12,137: Key: y
+2025-04-08 23:00:12,293: Key: a
+2025-04-08 23:00:12,629: Key: s
+2025-04-08 23:00:12,861: Key: h
